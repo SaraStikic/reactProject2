@@ -1,6 +1,6 @@
 export const OnamaItems=[
     {
-        url: "https://freepikpsd.com/wp-content/uploads/2019/10/film-png-icon-Transparent-Images.png",
+        url: "https://cdn3.iconfinder.com/data/icons/basic-web-elements/48/movie-512.png",
        
         cName: 'img'
     },

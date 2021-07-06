@@ -22,12 +22,12 @@ export const ImgItems = [
     },
     {
         url: 'https://upload.wikimedia.org/wikipedia/sr/thumb/9/97/%D0%A0%D0%B0%D1%9A%D0%B5%D0%BD%D0%B8_%D0%BE%D1%80%D0%B0%D0%BE_%28%D0%A2%D0%92_%D1%81%D0%B5%D1%80%D0%B8%D1%98%D0%B0%29.jpg/250px-%D0%A0%D0%B0%D1%9A%D0%B5%D0%BD%D0%B8_%D0%BE%D1%80%D0%B0%D0%BE_%28%D0%A2%D0%92_%D1%81%D0%B5%D1%80%D0%B8%D1%98%D0%B0%29.jpg',
-        opis: 'Šešir profesora Koste Vujića-serija',
+        opis: 'Ranjeni orao- Serija',
         cName: 'img'
     },
     {
         url: 'https://m.media-amazon.com/images/M/MV5BYzcxNDk0Y2QtODI3Ny00MmQxLTkxNGUtZTk0MmNkYTQzZWU0XkEyXkFqcGdeQXVyNDU2ODI0Njg@._V1_.jpg',
-        opis: 'Knjige Dobrice Ćosića',
+        opis: 'Šešir profesora Koste Vujića-Serija',
         cName: 'img'
     }
     
